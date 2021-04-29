@@ -1,0 +1,24 @@
+---
+title: "R"
+subtitle: "Tutorial 7"
+author: "Xinyi"
+institute: "Deparment"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 2
+    number_sections: true
+    highlight: tango
+  header-includes:
+    - \usepackage{titling}
+    - \pretitle{\begin{center} \includegraphics[width=5in,height=13in]{figs/front.jpg}\LARGE\\}
+    - \posttitle{\end{center}}
+    - \usepackage{fontawesome}
+    - \usepackage[most]{tcolorbox}
+    - \usepackage{xcolor}
+    - \usepackage{sectsty}
+    - \sectionfont{\color{olive}}
+    - \usepackage{verbatim}
+---
+
+# New section
